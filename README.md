@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **Hardware creates the body, software gives the soul.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
