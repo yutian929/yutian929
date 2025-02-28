@@ -13,9 +13,9 @@
 
 <h3 align="left">Others:</h3>
 
-- 🔭 I’m currently working on **Embodied AI, Embedded Dev**
+- 🔭 I’m currently working on **Robotics, Embodied AI, Embedded Dev**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning, VSLAM**
 
 - 📫 How to reach me **1139805871@qq.com**
 
