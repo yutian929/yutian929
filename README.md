@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Robotics, Embodied AI, Embedded Dev**
 
-- 🌱 I’m currently learning **Deep Learning, VSLAM**
+- 🌱 I’m currently learning **Deep Learning, Emobodied Perception**
 
 - 📫 How to reach me **1139805871@qq.com**
 
